@@ -1,5 +1,7 @@
 # email-blocked-senders
-a shared list to import into blocked lists of spam, marketing, etc. email addresses and domains
+### a shared list to import into blocked lists of spam, marketing, etc. email addresses and domains
+### open in raw for it to populate in a list
+### copy or download as text file and import to your email client
 
 @abmalliance.com
 @alphasights.com
